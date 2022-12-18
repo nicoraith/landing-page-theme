@@ -1,6 +1,6 @@
 <section id="initial_findings">
 	<!-- Page Content -->
-	{% for post in site._posts_initial_findings reversed %}
+	{% for post in site.posts reversed %}
 	  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 		{% if thecycle == 'odd' %}
 		<div class="content-section-a">
