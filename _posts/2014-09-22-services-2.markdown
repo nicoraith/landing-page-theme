@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: Duality.jpg
 category: Services
 title: 3D Device Mockups
 description: |
