@@ -2,7 +2,7 @@
 layout: default
 img: Duality.png
 category: Services
-title: Framing our research:
+title: Framing our research
 description: |
 ---
 
