@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Duality.png
+img: duality.svg
 category: Services
 title: Framing our research
 description: |
