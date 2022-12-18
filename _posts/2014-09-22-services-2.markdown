@@ -1,6 +1,7 @@
 ---
 layout: default
 img: Mean_Revenue_by_Year.png |  Movies_Released_over_the_Decades.png
+img2:  Movies_Released_over_the_Decades.png
 category: Services
 title: Cinema’s Increasing Impact
 description: |
