@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
+url: https://nicoraith.github.io/landing-page-theme/
+title: UtopianSky
 email: your-email@domain.com
-author: Your Name
+author: Arthur Ardelea, Nerea Carbonell, Camille Delgrange and Nikolaus Raith
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
