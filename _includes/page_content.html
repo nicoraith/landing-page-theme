@@ -1,6 +1,6 @@
 <section id="introduction">
 <!-- Page Content -->
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:3 reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
