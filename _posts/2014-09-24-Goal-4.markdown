@@ -1,3 +1,10 @@
+---
+layout: default
+category: Services
+title: What are we looking for? Research questions
+description: |
+---
+
 The following questions do not comprise an exhaustive list, but are fundamental to study gender representation in movies. They serve to scope, inspire, and guide the analysis.
 
 * What is the prevalence of m/f characters?
