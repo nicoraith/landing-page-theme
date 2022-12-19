@@ -1,0 +1,9 @@
+The following questions do not comprise an exhaustive list, but are fundamental to study gender representation in movies. They serve to scope, inspire, and guide the analysis.
+
+* What is the prevalence of m/f characters?
+* Is there a discrepency in age between m/f characters? 
+* How can we differentiate between depictions of male and female characters?
+    + How do they act? How do others act unto them?
+    + How are they described?
+* Can we extract archetypes / stereotypes across genders through lexical analysis?
+* Do the aforementioned questions show an evolution over time? Do they show discernable differences across geographies?
