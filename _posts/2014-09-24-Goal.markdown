@@ -1,16 +1,16 @@
 ---
 layout: default
 category: Services
-title: What are we looking for? Research questions
+title: Who does what to whom, when and how?
 description: |
 ---
 
 The following questions do not comprise an exhaustive list, but are fundamental to study gender representation in movies. They serve to scope, inspire, and guide the analysis.
 
-* What is the prevalence of m/f characters?
-* Is there a discrepency in age between m/f characters? 
+* What is the prevalence of male and female characters?
+* Is there a discrepancy in age between male and female characters? 
 * How can we differentiate between depictions of male and female characters?
-    + How do they act? How do others act unto them?
+    + How do they act? How do others act onto them?
     + How are they described?
 * Can we extract archetypes / stereotypes across genders through lexical analysis?
 * Do the aforementioned questions show an evolution over time? Do they show discernable differences across geographies?
