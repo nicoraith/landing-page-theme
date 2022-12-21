@@ -169,27 +169,27 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-wrap {
+#wrap {
     width: 750px;
     height: 1500px;
     padding: 0;
     overflow: hidden;
   }
   
-  scaled-frame {
+  #scaled-frame {
     width: 1000px;
     height: 2000px;
     border: 0px;
   }
   
-  scaled-frame {
+  #scaled-frame {
     zoom: 0.4;
     -moz-transform: scale(0.75);
     -moz-transform-origin: 0 0;
   }
   
   @media screen and (-webkit-min-device-pixel-ratio:0) {
-    scaled-frame {
+    #scaled-frame {
       zoom: 1;
     }
   }
