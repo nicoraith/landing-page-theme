@@ -186,10 +186,6 @@ wrap {
     zoom: 0.4;
     -moz-transform: scale(0.75);
     -moz-transform-origin: 0 0;
-    -o-transform: scale(0.75);
-    -o-transform-origin: 0 0;
-    -webkit-transform: scale(0.75);
-    -webkit-transform-origin: 0 0;
   }
   
   @media screen and (-webkit-min-device-pixel-ratio:0) {
