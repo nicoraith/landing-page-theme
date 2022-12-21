@@ -183,7 +183,7 @@ wrap {
   }
   
   scaled-frame {
-    zoom: 0.75;
+    zoom: 0.4;
     -moz-transform: scale(0.75);
     -moz-transform-origin: 0 0;
     -o-transform: scale(0.75);
