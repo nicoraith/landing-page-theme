@@ -183,13 +183,13 @@ p.copyright {
   }
   
   #scaled-frame {
-    zoom: 0.4;
+    zoom: 0.1;
     -moz-transform: scale(0.75);
     -moz-transform-origin: 0 0;
   }
   
   @media screen and (-webkit-min-device-pixel-ratio:0) {
     #scaled-frame {
-      zoom: 0.2;
+      zoom: 0.1;
     }
   }
