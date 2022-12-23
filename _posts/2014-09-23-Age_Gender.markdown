@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Age_Gender_Time.png
+img: age_gender_time_vector.png
 category: Initial Findings
 title: Data Exploration
 description: |
