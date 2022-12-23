@@ -1,5 +1,5 @@
 <section id="introduction">
-<!-- Page Content -->
+
 {% for post in site.posts reversed limit:2 %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
@@ -24,10 +24,8 @@
             </div>
 
         </div>
-        <!-- /.container -->
 
     </div>
-    <!-- /.content-section-a -->
     {% else %}
 
     <div class="content-section-b">
@@ -60,10 +58,8 @@
             </div>
 
         </div>
-        <!-- /.container -->
 
     </div>
-    <!-- /.content-section-b -->
     {% endif %}
 {% endfor %}
 
